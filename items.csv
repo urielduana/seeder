@@ -1,0 +1,51 @@
+name,price,description,image,stock,Business_id,Item_type_id
+Café americano,140.82,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,,38,1,17
+Capuchino,131.92,in magna bibendum imperdiet nullam orci pede venenatis non sodales,,140,1,30
+Latte,314.46,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,,84,1,12
+Té,38.33,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,,101,1,3
+Galletas,31.07,primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra,,113,1,28
+Pasteles,429.08,quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis,,34,1,29
+Sándwiches,338.52,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a,,102,1,23
+Bagels,150.19,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,,135,1,24
+Donas,158.74,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium,,146,1,22
+Ensaladas,408.58,tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus,,105,1,8
+Jugos naturales,176.52,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at,,125,1,12
+Batidos,471.04,ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis,,142,1,11
+Smoothies,356.0,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat,,129,1,10
+Wraps,380.79,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut,,53,1,5
+Yogur,111.13,orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,,55,1,2
+Frutas,16.84,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,,132,1,12
+Aguas frescas,61.48,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,,104,1,29
+Chocolates calientes,83.09,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,,69,1,27
+Tostadas francesas,445.81,in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi,,122,1,30
+Huevos revueltos,124.13,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis,,97,1,4
+Chilaquiles,6.93,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie,,81,1,3
+Hotcakes,61.93,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis,,7,1,15
+Waffles,239.98,ac neque duis bibendum morbi non quam nec dui luctus rutrum,,34,1,4
+Omelettes,45.5,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla,,110,1,19
+Croissants,42.79,ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,,46,1,4
+Panini,176.64,suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla,,58,1,2
+Pan dulce,460.64,nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum,,70,1,20
+Nachos,467.06,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,,94,1,21
+Papas a la francesa,159.98,mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum,,42,1,14
+Nuggets de pollo,126.27,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum,,81,1,19
+Hot dogs,473.03,convallis tortor risus dapibus augue vel accumsan tellus nisi eu,,100,1,16
+Hamburguesas,457.06,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis,,37,1,3
+Pizza,92.14,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam,,100,1,11
+Pita,454.74,neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate,,50,1,14
+Panini,377.33,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus,,126,1,18
+Fajitas,359.56,tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer,,127,1,30
+Burritos,169.32,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id,,100,1,15
+Tacos,220.61,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id,,13,1,22
+Sopa,118.23,vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,,136,1,4
+Ceviche,256.21,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum,,27,1,20
+Enchiladas,277.04,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer,,52,1,23
+Pambazos,104.9,diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus,,146,1,22
+Chiles rellenos,190.73,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,,86,1,17
+Quesadillas,428.14,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam,,17,1,13
+Papel bond,384.74,ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,,91,1,23
+Carpetas,266.55,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus,,10,1,2
+Cuadernos,155.08,magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,,106,1,16
+Lapiceros,212.74,justo eu massa donec dapibus duis at velit eu est,,107,1,21
+Bolígrafos,334.11,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et,,38,1,22
+Marcadores,70.86,id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis,,136,1,5
